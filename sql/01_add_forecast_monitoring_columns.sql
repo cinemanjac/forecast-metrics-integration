@@ -1,5 +1,5 @@
 -- ======================================================================
--- Schema Setup: Add Forecast Metrics Columns
+-- Schema Setup: Add Forecast Monitoring Columns
 
 -- Description:
 -- Extends the dataset schema by adding placeholder columns
