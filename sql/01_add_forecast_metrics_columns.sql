@@ -1,3 +1,4 @@
+-- ======================================================================
 -- Schema Setup: Add Forecast Metrics Columns
 
 -- Description:
