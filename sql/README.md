@@ -20,14 +20,17 @@ forecast monitoring pipeline.
 
 ### Execution Notes
 
-BigQuery free tier does not allow DML operations (e.g., MERGE)
+BigQuery free tier does not allow "MERGE" operation
 without billing enabled.
 
 To explore the project:
 
 1. Run `02_metrics_calculation.sql` to see how metrics are calculated
 2. Review `03_metrics_merge.sql` to understand how results are
-   integrated into the main dataset in production
+   integrated into the main dataset in a production setup
+
+If billing is enabled, you can run `03_metrics_merge.sql`
+and observe the updates applied to the dataset.
 
 ---
 
