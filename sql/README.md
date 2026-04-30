@@ -16,7 +16,7 @@ forecast monitoring pipeline.
   Full production-style pipeline using MERGE to update the dataset
   with calculated metrics.
 
---
+---
 
 ### Execution Notes
 
@@ -29,7 +29,7 @@ To explore the project:
 2. Review `03_metrics_merge.sql` to understand how results are
    integrated into the main dataset in production
 
---
+---
 
 ### Design Approach
 
