@@ -7,8 +7,8 @@
 -- on weekly and monthly levels.
 
 -- Note:
--- This script does not modify data and can be executed in BigQuery
--- free tier without billing enabled.
+-- Replace `your_project.your_dataset.synthetic_dataset`
+-- with your own BigQuery table path
 -- ======================================================================
 
 -- Extract last 12 months of data and compute aggregated utilisation
