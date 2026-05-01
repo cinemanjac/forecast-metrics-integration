@@ -1,4 +1,4 @@
-## Notebooks
+## Notebook
 
 This folder contains a Jupyter notebook used to generate the synthetic dataset.
 
