@@ -29,8 +29,8 @@ To explore the project:
 2. Review `03_metrics_merge.sql` to understand how results are
    integrated into the main dataset in a production setup
 
-If billing is enabled, you can run `03_metrics_merge.sql`
-and observe the updates applied to the dataset.
+If billing is enabled, you can run `01_schema_setup.sql`,
+`03_metrics_merge.sql` and observe the updates applied to the dataset.
 
 ---
 
